@@ -1,0 +1,13 @@
+# Snyc cache file
+.dccache
+
+# Vs code
+.vscode
+
+# Executables
+*.out
+
+# input files
+*.txt
+
+.DS_Store
