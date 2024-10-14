@@ -17,3 +17,11 @@
 ## :pushpin: Content by weeks:
 
 ### 1️⃣ [Revision - pointers, big O notation and high order functions](./week1)
+
+### 2️⃣ [Data structures. Stack](./week2)
+
+## Data structure implementations
+
+- Stack
+  - [Dynamic Array](./week2%20-%20stack/implementation/ArrayStack/ArrayStack.h)
+  - [Linked List](./week2%20-%20stack/implementation/LinkedStack/LinkedStack.h)
