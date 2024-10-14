@@ -12,7 +12,7 @@
 
 ## What books should I read?
 
-[Link](https://github.com/semerdzhiev/Reading-Lists/blob/master/Algorithms.adoc)
+[Link](https://github.com/semerdzhiev/reading/blob/main/algorithms.adoc)
 
 ## :pushpin: Content by weeks:
 
