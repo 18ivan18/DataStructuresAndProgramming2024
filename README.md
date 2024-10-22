@@ -20,8 +20,13 @@
 
 ### 2️⃣ [Data structures. Stack](./week2)
 
+### 3️⃣ [Queue](./week3)
+
 ## Data structure implementations
 
 - Stack
   - [Dynamic Array](./week2%20-%20stack/implementation/ArrayStack/ArrayStack.h)
   - [Linked List](./week2%20-%20stack/implementation/LinkedStack/LinkedStack.h)
+- Queue
+  - [Array List](./week3%20-%20queue/implementation/LinkedQueue/LinkedQueue.h)
+  - Static Array
