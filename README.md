@@ -22,6 +22,16 @@
 
 ### 3️⃣ [Queue](./week3)
 
+### 4️⃣ [Linked List](./week4)
+
+### 5️⃣ [Doubly Linked List](./week5)
+
+### 6️⃣ [Exam preparation](./week6)
+
+### 7️⃣ [Introduction to trees. Binary and n-ary trees.](./week7)
+
+### 8️⃣ [Binary Search Tree. (BST)](./week8)
+
 ## Data structure implementations
 
 - Stack
