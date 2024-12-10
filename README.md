@@ -32,6 +32,10 @@
 
 ### 8️⃣ [Binary Search Tree. (BST)](./week8)
 
+### 9️⃣ [Iterators. Binary Search Tree iterator. Exam preparation.](./week9)
+
+### 1️⃣ 0️⃣ [Balanced and Perfectly Balanced Binary Search Tree. AVL tree](./week10)
+
 ## Data structure implementations
 
 - Stack
